@@ -1,0 +1,24 @@
+body {
+  background-color: #ada9aa;
+}
+
+#outputMatches {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  background-color: #000;
+  color: #fff;
+  width: 800px;
+}
+
+#outputCombinations {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  background-color: #000;
+  color: #fff ;
+  width: 800px; 
+}
+
+
+

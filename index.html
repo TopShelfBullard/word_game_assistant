@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset=utf-8>
+    <title>abullard1_finalProject</title>
+    <link rel="stylesheet" href="css/abullard1_finalProject.css" type="text/css">
+  <script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+  <script type="text/javascript">
+    if (typeof jQuery == 'undefined') {
+      document.write(unescape("%3Cscript src='lib/query-1.8.3.min.js' type='text/javascript'%3E%3C/script%3E"));
+    }
+  </script>
+  <script src="js/amb.js"></script>
+ 
+  </head>
+<body>
+  <h1>Enter letters to get all possible combinations and any matching English words</h1>
+  <form>
+    <input id="inputText" type="text" size="8" maxlength="8">
+    <button id="inputButton" type="button">Submit</button>
+
+  </form>
+  
+  <div id="outputMatches">
+    <h2>English Words:</h2>
+    <p id="matchesParagraph"></p>
+  </div>
+  
+  <div id="outputCombinations">
+    <h2>Combinations:</h2>
+    <p id="combinationsParagraph"></p>
+  </div>
+      <script src="js/arrayFunctions.js"></script>
+      <script src="js/functions.js"></script>
+      <script src="js/program_flow.js"></script> 
+</body>
+</html>
+ 
+ 
