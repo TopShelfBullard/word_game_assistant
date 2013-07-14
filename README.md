@@ -6,8 +6,8 @@ Final Project: Programming Fundamentals
 The word_game_assistant was my final project for my first programming course. The course was an eight week course
 before which I had not written a program, so what you see in my first commit is a good example of what I could
 create eight weeks after my very first "Hello world" program in my very first programming language. There are
-many problems with this program. Check out my blog about this project for info on the issues I encountered with it
-<a href="http://bullardamitchell.wordpress.com/2013/05/13/h1a-quest-to-discover-things-ive-already-been-given-h1/">here<a>
+many problems with this program. Check out my blog about this project for info on the issues I encountered 
+<a href="http://bullardamitchell.wordpress.com/2013/05/13/h1a-quest-to-discover-things-ive-already-been-given-h1/">here<a>.
 </p>
 <p>
 The program is extremely slow, the UI is crap, and there is no documentation. I plan to turn this program into a Ruby on Rails
