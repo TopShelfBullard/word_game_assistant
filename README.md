@@ -10,10 +10,10 @@ many problems with this program. Check out my blog about this project for info o
 <a href="http://bullardamitchell.wordpress.com/2013/05/13/h1a-quest-to-discover-things-ive-already-been-given-h1/">here<a>.
 </p>
 <p>
-The program is extremely slow, the UI is crap, and there is no documentation. I plan to turn this program into a Ruby on Rails
-web app because: 1. Ruby on Rails is awesome! and 2. All of the looping through thousands of words in an array is a very crappy
-substitution for querying a relational database. Eventually I would like the word_game_assistant to be a program
-where you can enter your Scrabble letters and the letter that you would like to play off of and it will output every legal Scrabble
-word that you can play. Also,  with some slight modification, I see the user able to specify the length of a word in a crossword
-puzzle and the position of the letters that they know to get all possible matches from the database.
+The program is extremely slow, the UI is crap, and there is no documentation. I plan work on these issue and
+convert word_game_assistant turn this program into a Rails web app. Eventually I would like the word_game_assistant
+to be a program where you can enter your Scrabble letters and the letter that you would like to play off of and it
+will output every legal Scrabble word that you can play. Also,  with some slight modification, I see the user able
+to specify the length of a word in a crossword puzzle and the position of the letters that they know to get all
+possible matches from the database.
 </p>
